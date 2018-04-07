@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Punch Group</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="menu_search">FinalProject</string>
+    <string name="menu_setting">FinalProject</string>
+
+</resources>
